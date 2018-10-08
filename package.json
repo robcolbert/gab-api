@@ -1,0 +1,31 @@
+{
+  "name": "gab-api",
+  "version": "0.1.0",
+  "description": "A Gab.com API client for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robcolbert/gab-api.git"
+  },
+  "keywords": [
+    "gab",
+    "gab.com",
+    "gab",
+    "api",
+    "oauth2"
+  ],
+  "author": "Rob Colbert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robcolbert/gab-api/issues"
+  },
+  "homepage": "https://github.com/robcolbert/gab-api#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "simple-oauth2": "^2.2.1"
+  }
+}
