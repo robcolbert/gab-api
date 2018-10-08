@@ -1,6 +1,6 @@
 {
   "name": "gab-api",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Gab.com API client for Node.js",
   "main": "index.js",
   "scripts": {
