@@ -25,7 +25,7 @@
   "homepage": "https://github.com/robcolbert/gab-api#readme",
   "dependencies": {
     "request": "^2.88.0",
-    "request-promise-native": "^1.0.5",
+    "request-promise-native": "^1.0.7",
     "simple-oauth2": "^2.2.1"
   }
 }
